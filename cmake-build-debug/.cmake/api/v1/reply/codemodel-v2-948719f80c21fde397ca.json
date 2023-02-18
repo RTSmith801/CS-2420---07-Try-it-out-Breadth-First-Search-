@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "07_Learning_Activity_Dijkstras_Algorithm",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "07_Learning_Activity_Dijkstras_Algorithm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07_Learning_Activity_Dijkstras_Algorithm-Debug-4061694a0bf807ba2fff.json",
+					"name" : "07_Learning_Activity_Dijkstras_Algorithm",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "Z:/Desktop/Weber State Univesity/Classes/CS 2420/Assignments/07 Try it out Breadth First Search/cmake-build-debug",
+		"source" : "Z:/Desktop/Weber State Univesity/Classes/CS 2420/Assignments/07 Try it out Breadth First Search"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

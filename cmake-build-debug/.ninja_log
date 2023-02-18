@@ -1,0 +1,14 @@
+# ninja log v5
+0	195	6983760035496582	build.ninja	5d2a358e46d4aa11
+601	780	6981927785753097	07_Learning_Activity_Dijkstras_Algorithm.exe	10a91405ed9619f7
+4	600	6981927783993859	CMakeFiles/07_Learning_Activity_Dijkstras_Algorithm.dir/Source_Files/Graph.cpp.obj	4f379e455e6b7cb9
+5	427	6981926472863309	CMakeFiles/07_Learning_Activity_Dijkstras_Algorithm.dir/Source_Files/Main.cpp.obj	85062babe563f886
+12	592	6983803301858846	CMakeFiles/07_Learning_Activity_Dijkstras_Algorithm.dir/Source_Files/Main.cpp.obj	f05256967f3ff884
+5	693	6983803302878394	CMakeFiles/07_Learning_Activity_Dijkstras_Algorithm.dir/Source_Files/Graph.cpp.obj	cec9e5a2338834fc
+693	1113	6983803307026602	07_Learning_Activity_Dijkstras_Algorithm.exe	10a91405ed9619f7
+4	513	6983846775979025	CMakeFiles/07_Learning_Activity_Dijkstras_Algorithm.dir/Source_Files/Main.cpp.obj	f05256967f3ff884
+513	744	6983846778293055	07_Learning_Activity_Dijkstras_Algorithm.exe	10a91405ed9619f7
+5	437	6983846896437608	CMakeFiles/07_Learning_Activity_Dijkstras_Algorithm.dir/Source_Files/Main.cpp.obj	f05256967f3ff884
+438	627	6983846898291858	07_Learning_Activity_Dijkstras_Algorithm.exe	10a91405ed9619f7
+4	439	6983847662127152	CMakeFiles/07_Learning_Activity_Dijkstras_Algorithm.dir/Source_Files/Main.cpp.obj	f05256967f3ff884
+439	623	6983847663916379	07_Learning_Activity_Dijkstras_Algorithm.exe	10a91405ed9619f7
